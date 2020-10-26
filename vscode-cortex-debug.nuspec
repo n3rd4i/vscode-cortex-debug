@@ -12,7 +12,7 @@
 
     <!-- == SOFTWARE SPECIFIC SECTION == -->
     <!-- This section is about the software itself -->
-    <title>vscode-cortex-debug (Install)</title>
+    <title>Cortex Debug</title>
     <authors>Marus</authors>
     <!-- projectUrl is required for the community feed -->
     <projectUrl>https://marketplace.visualstudio.com/items?itemName=marus25.cortex-debug</projectUrl>
